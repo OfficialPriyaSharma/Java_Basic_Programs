@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Fibonacci_Recursion {
+public class Factorial_Recursion {
 
     public static void main(String[] args) {
 
